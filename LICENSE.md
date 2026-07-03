@@ -1,4 +1,4 @@
-# 
+# Automatic DataLens setup. Download and install with docker-ready and one-click-install — fast, secure, and easy to use.
 
 
 
